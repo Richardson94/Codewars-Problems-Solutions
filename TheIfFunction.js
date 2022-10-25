@@ -13,4 +13,3 @@ console.log(
     }
   )
 );
-// Logs 'True' to the console.)
