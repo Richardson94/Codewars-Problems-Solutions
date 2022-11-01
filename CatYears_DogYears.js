@@ -1,4 +1,3 @@
-//# Cat years, Dog years
 var humanYearsCatYearsDogYears = function (humanYears) {
   if (humanYears == 0) {
     return [0, 0, 0];

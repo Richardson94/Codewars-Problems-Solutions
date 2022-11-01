@@ -1,4 +1,3 @@
-//# Check same case
 function sameCase(a, b) {
   if (a.charCodeAt(0) >= 65 && a.charCodeAt(0) <= 90) {
     if (b.charCodeAt(0) >= 65 && b.charCodeAt(0) <= 90) {

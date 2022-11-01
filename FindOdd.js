@@ -1,4 +1,3 @@
-//# Find the Odd int
 function findOdd(A) {
   var numSaved = 0;
   var countSaved = 0;

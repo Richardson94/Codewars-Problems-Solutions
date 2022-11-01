@@ -1,4 +1,3 @@
-//#sumatory of numbers if the number is divisible betwen 3 or 5
 function solution(number) {
   if (number < 0) {
     return 0;

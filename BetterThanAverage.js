@@ -1,4 +1,3 @@
-//#Average score if you are better or not
 function betterThanAverage(classPoints, yourPoints) {
   var numScore = classPoints.length + 1;
   var valor = 0;

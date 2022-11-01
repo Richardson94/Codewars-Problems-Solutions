@@ -1,4 +1,3 @@
-// #Name Shuffler
 function nameShuffler(str) {
   var pos = obtainPoint(str);
   if (pos != 0) {
