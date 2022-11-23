@@ -16,9 +16,4 @@ console.log(XO('xxOo'));
 console.log(XO('xxxm'));
 console.log(XO('Oo'));
 console.log(XO('ooom'));
-/*
- x ->120
- X ->88
- o -> 111
- O -> 79
- */
+
