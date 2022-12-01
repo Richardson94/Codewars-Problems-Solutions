@@ -1,6 +1,5 @@
 function validParentheses(parens) {
   if (countCharacter('(', parens) == countCharacter(')', parens)) {
-    console.log('Equitativo');
     return true;
   }
   return false;
