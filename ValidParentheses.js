@@ -5,6 +5,7 @@ function validParentheses(parens) {
   return false;
 }
 function comprobeString(parensString) {}
+function verifyParens(parensString){}
 function countCharacter(char, stringChar) {
   let value = 0;
   for (let pos = 0; pos < stringChar.length; pos++) {
